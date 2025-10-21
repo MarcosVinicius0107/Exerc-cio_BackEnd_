@@ -1,0 +1,14 @@
+C:\Users\57721132835\Desktop\BackEnd_T\locowhile\bin\Debug\net9.0\locowhile.exe
+C:\Users\57721132835\Desktop\BackEnd_T\locowhile\bin\Debug\net9.0\locowhile.deps.json
+C:\Users\57721132835\Desktop\BackEnd_T\locowhile\bin\Debug\net9.0\locowhile.runtimeconfig.json
+C:\Users\57721132835\Desktop\BackEnd_T\locowhile\bin\Debug\net9.0\locowhile.dll
+C:\Users\57721132835\Desktop\BackEnd_T\locowhile\bin\Debug\net9.0\locowhile.pdb
+C:\Users\57721132835\Desktop\BackEnd_T\locowhile\obj\Debug\net9.0\locowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57721132835\Desktop\BackEnd_T\locowhile\obj\Debug\net9.0\locowhile.AssemblyInfoInputs.cache
+C:\Users\57721132835\Desktop\BackEnd_T\locowhile\obj\Debug\net9.0\locowhile.AssemblyInfo.cs
+C:\Users\57721132835\Desktop\BackEnd_T\locowhile\obj\Debug\net9.0\locowhile.csproj.CoreCompileInputs.cache
+C:\Users\57721132835\Desktop\BackEnd_T\locowhile\obj\Debug\net9.0\locowhile.dll
+C:\Users\57721132835\Desktop\BackEnd_T\locowhile\obj\Debug\net9.0\refint\locowhile.dll
+C:\Users\57721132835\Desktop\BackEnd_T\locowhile\obj\Debug\net9.0\locowhile.pdb
+C:\Users\57721132835\Desktop\BackEnd_T\locowhile\obj\Debug\net9.0\locowhile.genruntimeconfig.cache
+C:\Users\57721132835\Desktop\BackEnd_T\locowhile\obj\Debug\net9.0\ref\locowhile.dll

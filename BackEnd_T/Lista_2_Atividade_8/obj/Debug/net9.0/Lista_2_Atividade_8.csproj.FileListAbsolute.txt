@@ -1,0 +1,14 @@
+C:\Users\57721132835\Desktop\BackEnd_T\Lista_2_Atividade_8\bin\Debug\net9.0\Lista_2_Atividade_8.exe
+C:\Users\57721132835\Desktop\BackEnd_T\Lista_2_Atividade_8\bin\Debug\net9.0\Lista_2_Atividade_8.deps.json
+C:\Users\57721132835\Desktop\BackEnd_T\Lista_2_Atividade_8\bin\Debug\net9.0\Lista_2_Atividade_8.runtimeconfig.json
+C:\Users\57721132835\Desktop\BackEnd_T\Lista_2_Atividade_8\bin\Debug\net9.0\Lista_2_Atividade_8.dll
+C:\Users\57721132835\Desktop\BackEnd_T\Lista_2_Atividade_8\bin\Debug\net9.0\Lista_2_Atividade_8.pdb
+C:\Users\57721132835\Desktop\BackEnd_T\Lista_2_Atividade_8\obj\Debug\net9.0\Lista_2_Atividade_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57721132835\Desktop\BackEnd_T\Lista_2_Atividade_8\obj\Debug\net9.0\Lista_2_Atividade_8.AssemblyInfoInputs.cache
+C:\Users\57721132835\Desktop\BackEnd_T\Lista_2_Atividade_8\obj\Debug\net9.0\Lista_2_Atividade_8.AssemblyInfo.cs
+C:\Users\57721132835\Desktop\BackEnd_T\Lista_2_Atividade_8\obj\Debug\net9.0\Lista_2_Atividade_8.csproj.CoreCompileInputs.cache
+C:\Users\57721132835\Desktop\BackEnd_T\Lista_2_Atividade_8\obj\Debug\net9.0\Lista_2_Atividade_8.dll
+C:\Users\57721132835\Desktop\BackEnd_T\Lista_2_Atividade_8\obj\Debug\net9.0\refint\Lista_2_Atividade_8.dll
+C:\Users\57721132835\Desktop\BackEnd_T\Lista_2_Atividade_8\obj\Debug\net9.0\Lista_2_Atividade_8.pdb
+C:\Users\57721132835\Desktop\BackEnd_T\Lista_2_Atividade_8\obj\Debug\net9.0\Lista_2_Atividade_8.genruntimeconfig.cache
+C:\Users\57721132835\Desktop\BackEnd_T\Lista_2_Atividade_8\obj\Debug\net9.0\ref\Lista_2_Atividade_8.dll
