@@ -17,7 +17,7 @@ do
     Console.WriteLine("");
     Console.WriteLine("Digite o exercicio que deseja realizar:");
 
-    if (int.TryParse(Console.ReadLine(), out opcao))
+    if (!int.TryParse(Console.ReadLine(), out opcao))
     {
         Console.WriteLine("Numero invalido");
         continue;
