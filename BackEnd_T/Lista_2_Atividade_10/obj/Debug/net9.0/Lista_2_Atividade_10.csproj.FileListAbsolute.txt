@@ -1,0 +1,15 @@
+C:\Users\57721132835\Desktop\Exerc-cio_BackEnd_\BackEnd_T\Lista_2_Atividade_10\bin\Debug\net9.0\Lista_2_Atividade_10.exe
+C:\Users\57721132835\Desktop\Exerc-cio_BackEnd_\BackEnd_T\Lista_2_Atividade_10\bin\Debug\net9.0\Lista_2_Atividade_10.deps.json
+C:\Users\57721132835\Desktop\Exerc-cio_BackEnd_\BackEnd_T\Lista_2_Atividade_10\bin\Debug\net9.0\Lista_2_Atividade_10.runtimeconfig.json
+C:\Users\57721132835\Desktop\Exerc-cio_BackEnd_\BackEnd_T\Lista_2_Atividade_10\bin\Debug\net9.0\Lista_2_Atividade_10.dll
+C:\Users\57721132835\Desktop\Exerc-cio_BackEnd_\BackEnd_T\Lista_2_Atividade_10\bin\Debug\net9.0\Lista_2_Atividade_10.pdb
+C:\Users\57721132835\Desktop\Exerc-cio_BackEnd_\BackEnd_T\Lista_2_Atividade_10\obj\Debug\net9.0\Lista_2_Atividade_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57721132835\Desktop\Exerc-cio_BackEnd_\BackEnd_T\Lista_2_Atividade_10\obj\Debug\net9.0\Lista_2_Atividade_10.AssemblyInfoInputs.cache
+C:\Users\57721132835\Desktop\Exerc-cio_BackEnd_\BackEnd_T\Lista_2_Atividade_10\obj\Debug\net9.0\Lista_2_Atividade_10.AssemblyInfo.cs
+C:\Users\57721132835\Desktop\Exerc-cio_BackEnd_\BackEnd_T\Lista_2_Atividade_10\obj\Debug\net9.0\Lista_2_Atividade_10.csproj.CoreCompileInputs.cache
+C:\Users\57721132835\Desktop\Exerc-cio_BackEnd_\BackEnd_T\Lista_2_Atividade_10\obj\Debug\net9.0\Lista_2_Atividade_10.sourcelink.json
+C:\Users\57721132835\Desktop\Exerc-cio_BackEnd_\BackEnd_T\Lista_2_Atividade_10\obj\Debug\net9.0\Lista_2_Atividade_10.dll
+C:\Users\57721132835\Desktop\Exerc-cio_BackEnd_\BackEnd_T\Lista_2_Atividade_10\obj\Debug\net9.0\refint\Lista_2_Atividade_10.dll
+C:\Users\57721132835\Desktop\Exerc-cio_BackEnd_\BackEnd_T\Lista_2_Atividade_10\obj\Debug\net9.0\Lista_2_Atividade_10.pdb
+C:\Users\57721132835\Desktop\Exerc-cio_BackEnd_\BackEnd_T\Lista_2_Atividade_10\obj\Debug\net9.0\Lista_2_Atividade_10.genruntimeconfig.cache
+C:\Users\57721132835\Desktop\Exerc-cio_BackEnd_\BackEnd_T\Lista_2_Atividade_10\obj\Debug\net9.0\ref\Lista_2_Atividade_10.dll
