@@ -83,6 +83,7 @@ void Exercicio1()
     }
 }
 
+///////////////////////////////////////////////////////////////////////////////////////
 void Exercicio2()
 {
     Console.WriteLine("Realizando o exercício 2...");
@@ -102,6 +103,7 @@ void Exercicio2()
         Console.WriteLine("Empate!");
 }
 
+///////////////////////////////////////////////////////////////////////////////////////
 void Exercicio3()
 {
     Console.WriteLine("Realizando o exercício 3...");
@@ -137,41 +139,44 @@ void Exercicio3()
     }
 }
 
+//////////////////////////////////////////////////////////////////////////////////////////
 void Exercicio4()
 {
     Console.WriteLine("Realizando o exercício 4...");
-       Console.Write("Digite a senha: ");
-        int senha = int.Parse(Console.ReadLine());
+    Console.Write("Digite a senha: ");
+    int senha = int.Parse(Console.ReadLine());
 
-        if (senha == 134)
-            Console.WriteLine("Acesso permitido");
-        else
-            Console.WriteLine("Acesso negado");
+    if (senha == 134)
+        Console.WriteLine("Acesso permitido");
+    else
+        Console.WriteLine("Acesso negado");
 }
 
+/////////////////////////////////////////////////////////////////////////////////////////
 void Exercicio5()
 {
     Console.WriteLine("Realizando o exercício 5...");
     Console.Write("Digite o número de maçãs compradas: ");
-        int quantidade = int.Parse(Console.ReadLine());
+    int quantidade = int.Parse(Console.ReadLine());
 
-        double preco;
+    double preco;
 
-        if (quantidade >= 12)
-        {
-            preco = 0.25;
-        }
-        else
-        {
-            preco = 0.30;
-        }
-        
-        double total = quantidade * preco;
+    if (quantidade >= 12)
+    {
+        preco = 0.25;
+    }
+    else
+    {
+        preco = 0.30;
+    }
 
-    
-        Console.WriteLine($"O valor total da compra é: R$ {total}");
+    double total = quantidade * preco;
+
+
+    Console.WriteLine($"O valor total da compra é: R$ {total}");
 }
 
+////////////////////////////////////////////////////////////////////////////////////////
 void Exercicio6()
 {
     Console.WriteLine("Realizando o exercício 6...");
